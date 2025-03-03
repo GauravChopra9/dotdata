@@ -20,3 +20,7 @@ This repository contains a neural network model for **speech emotion recognition
 git clone https://github.com/your-username/repository-name.git
 cd repository-name
 
+### **Install dependencies**
+```bash
+pip install -r requirements.txt
+
