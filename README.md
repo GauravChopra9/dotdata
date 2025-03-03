@@ -17,7 +17,7 @@ This repository contains a neural network model for **speech emotion recognition
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/GauravChopra9/repository-name.git
 cd repository-name
 ```
 
