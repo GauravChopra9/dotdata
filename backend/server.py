@@ -62,7 +62,7 @@ def extract_features(audio_path):
     
     return np.expand_dims(features, axis=0)
 
-@app.post("/upload/")
+@app.post("/")
 async def upload_audio(file: UploadFile = File(...)):
     file_location = f"temp/{file.filename}"
     os.makedirs("temp", exist_ok=True)
