@@ -3,3 +3,4 @@ uvicorn
 numpy
 librosa
 boto3
+python-multipart
