@@ -1,4 +1,4 @@
-# **Speech Emotion Recognition with FastAPI, Streamlit, and Cloudflare R2**
+# **Speech Emotion Recognition with TensorFlow, FastAPI, Streamlit, and Cloudflare R2**
 
 ## **Overview**
 This repository contains a neural network model for **speech emotion recognition** that:  
